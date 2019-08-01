@@ -1,0 +1,1 @@
+export MONGODB_URI='mongodb+srv://SirRendore:pa55word@horizonscluster-a9rxt.mongodb.net/test?retryWrites=true&w=majority'
